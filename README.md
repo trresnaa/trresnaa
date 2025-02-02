@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tresna Jaya</h1>
-<h3 align="center">A student who loves to learn about fullstack web developing from Indonesia</h3>
+<h3 align="center">An undergraduate system information student who loves to learn about fullstack web developing from Indonesia</h3>
 
 - 🌱 I’m currently learning **Fullstack developer course**
 
