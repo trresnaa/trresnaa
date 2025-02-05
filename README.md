@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tresna Jaya</h1>
 <h3 align="center">An undergraduate system information student who loves to learn fullstack web developing from Indonesia</h3>
 
-- 🌱 I’m currently learning **Fullstack developer course**
+- 🌱 I’m currently learning **Fullstack developing course**
 
 - 📫 How to reach me **aditresnajaya2004@gmail.com**
 
